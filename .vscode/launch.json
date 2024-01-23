@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Week2Application<week2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "comp74.week2.Week2Application",
+            "projectName": "week2",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
